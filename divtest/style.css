@@ -1,0 +1,25 @@
+.container {
+  
+  background: red;
+  
+  
+}
+.firstbox{
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.loui{
+  
+  color: green;
+  height: 50px;
+  width: 50px;
+  background-color: darkblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  
+}
